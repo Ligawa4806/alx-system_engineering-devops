@@ -1,1 +1,2 @@
-# alx-system_engineering-devops
+#!/bin/bash
+my first read me
